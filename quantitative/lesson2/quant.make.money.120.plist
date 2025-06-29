@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>quant.make.money.120</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/opt/local/bin/python</string>
+        <string>job2.py</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/量化交易/quantitative/lesson2</string>
+    <key>StartCalendarInterval</key>
+    <array>
+      <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+        <key>Weekday</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+        <key>Weekday</key>
+        <integer>2</integer>
+      </dict>
+      <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+        <key>Weekday</key>
+        <integer>3</integer>
+      </dict>
+      <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+        <key>Weekday</key>
+        <integer>4</integer>
+      </dict> 
+      <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+        <key>Weekday</key>
+        <integer>5</integer>
+      </dict>
+    </array>
+    <key>StandardOutPath</key>
+    <string>/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/量化交易/quantitative/lesson2/run_120.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/量化交易/quantitative/lesson2/error_120.log</string>
+</dict>
+</plist>

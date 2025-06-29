@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "jsdom": "^26.0.0"
+  }
+}
